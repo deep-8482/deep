@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(168, 123, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.contentbox{
+    background-color: rgb(48, 48, 48);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.5);
+    max-width: 600px;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.noob{
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.paragraph{
+    font-family:Arial, Helvetica, sans-serif;
+    color: pink;
+
+}
+
+.last{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(248, 168, 182);
+    text-align: right;
+}
+
+.siuuuuu{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: pink;
+}
+
+.love{
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+    text-decoration: line-through;
+    text-align:end;
+}
